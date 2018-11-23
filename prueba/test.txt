@@ -1,0 +1,9 @@
+total 28
+-rwxr-xr-x 1 root root   45 Nov 22 00:22 docker-entrypoint.sh
+-rw-r--r-- 1 root root  309 Nov 22 01:27 Dockerfile
+-rw-r--r-- 1 root root    0 Nov 22 01:37 Jenkinsfile
+drwxr-xr-x 2 root root 4096 Nov 22 23:06 prueba
+-rw-r--r-- 1 root root   62 Nov 22 01:29 Readme.md
+-rw-r--r-- 1 root root  245 Nov 22 00:25 requirements.txt
+drwxr-xr-x 2 root root 4096 Nov 21 16:47 scripts
+drwxr-xr-x 4 root root 4096 Nov 21 23:38 src
